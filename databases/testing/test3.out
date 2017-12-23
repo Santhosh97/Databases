@@ -1,0 +1,63 @@
+DB61B System.  Version 2.0.
+> Loaded students.db
+> Loaded enrolled.db
+> Loaded schedule.db
+> > Search results:
+  101 Knowles
+  102 Chan
+  103 Xavier
+  104 Armstrong
+  105 Brown
+  106 Chan
+> Contents of students:
+  101 Knowles Jason F 2003 EECS
+  102 Chan Valerie S 2003 Math
+  103 Xavier Jonathan S 2004 LSUnd
+  104 Armstrong Thomas F 2003 EECS
+  105 Brown Shana S 2004 EECS
+  106 Chan Yangfan F 2003 LSUnd
+> > Contents of table1:
+  102
+  105
+  106
+> > Contents of table2:
+  101 1A English
+  101 54 Math
+  101 61A EECS
+  101 61B EECS
+  102 1A English
+  102 54 Math
+  102 61A EECS
+  102 61B EECS
+  103 1A English
+  103 54 Math
+  104 1A English
+  104 54 Math
+  104 61A EECS
+  104 61B EECS
+  105 1A English
+  105 61A EECS
+  106 1A English
+  106 54 Math
+  106 61A EECS
+> > Contents of table3:
+  102 61A EECS 21231
+  102 61B EECS 21229
+  105 61A EECS 21228
+  106 54 Math 21103
+  106 61A EECS 21231
+> > Contents of table4:
+  102 61A EECS 21231 A
+  105 61A EECS 21228 A
+  106 61A EECS 21231 A
+> > Contents of excellentstudents:
+  Shana Brown 61A A
+  Valerie Chan 61A A
+  Yangfan Chan 61A A
+> Stored excellentstudents.db
+> Loaded excellentstudents.db
+> > Contents of excellentstudents:
+  Shana Brown 61A A
+  Valerie Chan 61A A
+  Yangfan Chan 61A A
+> 

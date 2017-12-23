@@ -1,0 +1,20 @@
+load students;
+load enrolled;
+load schedule;
+
+select SID, Lastname from students;
+print students;
+create table table1 as select SID from enrolled where Grade = 'A';
+print table1;
+create table table2 as select SID, Num, Dept from enrolled, schedule;
+print table2;
+create table table3 as select SID, Num, Dept, CCN from enrolled, schedule where Grade = 'A';
+print table3;
+create table table4 as select SID, Num, Dept, CCN, Grade from enrolled, schedule where Grade = 'A' and Num = '61A';
+print table4;
+create table excellentstudents as select Firstname, Lastname, Num, Grade from table4, students;
+print excellentstudents;
+store excellentstudents;
+load excellentstudents;
+print excellentstudents;
+quit;

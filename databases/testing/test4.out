@@ -1,0 +1,529 @@
+DB61B System.  Version 2.0.
+> Loaded data.db
+> Contents of data:
+  400277722 2013-10-30 Miami Heat 120 Boston Celtics 107
+  400277723 2013-10-30 Los Angeles Lakers 91 Dallas Mavericks 99
+  400277724 2013-10-31 Toronto Raptors 88 Indiana Pacers 90
+  400277725 2013-10-31 Philadelphia 76ers 84 Denver Nuggets 75
+  400277730 2013-10-31 Phoenix Suns 85 Golden State Warriors 87
+  400277731 2013-10-31 Los Angeles Clippers 101 Memphis Grizzlies 92
+  400277732 2013-10-31 Portland Trail Blazers 116 Los Angeles Lakers 106
+  400277737 2013-11-02 Boston Celtics 88 Milwaukee Bucks 99
+  400277740 2013-11-02 New York Knicks 104 Miami Heat 84
+  400277745 2013-11-02 Los Angeles Lakers 95 Los Angeles Clippers 105
+  400277746 2013-11-02 Golden State Warriors 94 Memphis Grizzlies 104
+  400277747 2013-11-03 Washington Wizards 86 Boston Celtics 89
+  400277749 2013-11-03 Brooklyn Nets 107 Toronto Raptors 100
+  400277756 2013-11-03 Los Angeles Clippers 110 Golden State Warriors 114
+  400277757 2013-11-04 New York Knicks 100 Philadelphia 76ers 84
+  400277758 2013-11-04 Toronto Raptors 105 Minnesota Timberwolves 86
+  400277761 2013-11-04 Los Angeles Lakers 108 Detroit Pistons 79
+  400277762 2013-11-05 Philadelphia 76ers 88 New York Knicks 110
+  400277763 2013-11-05 Brooklyn Nets 96 Minnesota Timberwolves 107
+  400277768 2013-11-05 Sacramento Kings 94 Golden State Warriors 92
+  400277769 2013-11-05 Los Angeles Clippers 101 Cleveland Cavaliers 108
+  400277771 2013-11-06 Oklahoma City Thunder 108 Toronto Raptors 88
+  400277774 2013-11-07 Boston Celtics 100 Washington Wizards 94
+  400277776 2013-11-07 Miami Heat 103 Brooklyn Nets 73
+  400277778 2013-11-07 New Orleans Hornets 62 Philadelphia 76ers 77
+  400277781 2013-11-07 Dallas Mavericks 109 Toronto Raptors 104
+  400277782 2013-11-07 Utah Jazz 95 Los Angeles Lakers 86
+  400277784 2013-11-07 Los Angeles Clippers 106 San Antonio Spurs 84
+  400277785 2013-11-07 Golden State Warriors 106 Cleveland Cavaliers 96
+  400277787 2013-11-08 Portland Trail Blazers 90 Los Angeles Clippers 103
+  400277789 2013-11-09 Orlando Magic 68 Brooklyn Nets 107
+  400277790 2013-11-09 Boston Celtics 100 Philadelphia 76ers 106
+  400277791 2013-11-09 New York Knicks 104 Dallas Mavericks 94
+  400277800 2013-11-09 Los Angeles Lakers 101 Golden State Warriors 77
+  400277801 2013-11-10 Toronto Raptors 83 Philadelphia 76ers 93
+  400277806 2013-11-10 Milwaukee Bucks 92 Boston Celtics 96
+  400277809 2013-11-10 Golden State Warriors 101 Denver Nuggets 107
+  400277810 2013-11-11 Brooklyn Nets 82 Orlando Magic 74
+  400277811 2013-11-11 Los Angeles Clippers 89 Atlanta Hawks 76
+  400277814 2013-11-11 Los Angeles Lakers 103 Sacramento Kings 90
+  400277815 2013-11-12 Toronto Raptors 133 Utah Jazz 140
+  400277816 2013-11-12 Philadelphia 76ers 96 Milwaukee Bucks 105
+  400277818 2013-11-12 Chicago Bulls 95 Boston Celtics 101
+  400277824 2013-11-13 Orlando Magic 89 New York Knicks 99
+  400277825 2013-11-13 Indiana Pacers 72 Toronto Raptors 74
+  400277826 2013-11-13 Brooklyn Nets 114 Cleveland Cavaliers 101
+  400277828 2013-11-13 Los Angeles Lakers 82 San Antonio Spurs 84
+  400277829 2013-11-14 Philadelphia 76ers 76 Detroit Pistons 94
+  400277830 2013-11-14 Boston Celtics 98 Utah Jazz 93
+  400277837 2013-11-14 Los Angeles Clippers 107 Miami Heat 100
+  400277838 2013-11-14 Golden State Warriors 92 Atlanta Hawks 88
+  400277839 2013-11-15 Brooklyn Nets 102 Boston Celtics 97
+  400277840 2013-11-15 San Antonio Spurs 100 New York Knicks 104
+  400277842 2013-11-16 Philadelphia 76ers 99 Utah Jazz 93
+  400277846 2013-11-16 Minnesota Timberwolves 98 Golden State Warriors 106
+  400277847 2013-11-16 Memphis Grizzlies 105 New York Knicks 95
+  400277850 2013-11-16 Los Angeles Lakers 114 Phoenix Suns 102
+  400277851 2013-11-17 Boston Celtics 107 Toronto Raptors 89
+  400277852 2013-11-17 Los Angeles Clippers 101 Chicago Bulls 80
+  400277859 2013-11-18 New York Knicks 88 Indiana Pacers 76
+  400277860 2013-11-18 Toronto Raptors 97 Orlando Magic 86
+  400277861 2013-11-18 Philadelphia 76ers 86 Cleveland Cavaliers 79
+  400277862 2013-11-18 Sacramento Kings 90 Brooklyn Nets 99
+  400277863 2013-11-18 Oklahoma City Thunder 119 Golden State Warriors 109
+  400277864 2013-11-18 Detroit Pistons 103 Boston Celtics 83
+  400277866 2013-11-18 Los Angeles Lakers 119 Houston Rockets 108
+  400277871 2013-11-19 Dallas Mavericks 101 Golden State Warriors 105
+  400277872 2013-11-19 San Antonio Spurs 87 Los Angeles Clippers 92
+  400277874 2013-11-20 Philadelphia 76ers 106 Toronto Raptors 98
+  400277875 2013-11-20 New Orleans Hornets 80 New York Knicks 102
+  400277876 2013-11-20 Los Angeles Lakers 95 Brooklyn Nets 90
+  400277877 2013-11-21 Charlotte Bobcats 98 Toronto Raptors 97
+  400277879 2013-11-21 Cleveland Cavaliers 92 Philadelphia 76ers 83
+  400277881 2013-11-21 Boston Celtics 100 San Antonio Spurs 112
+  400277884 2013-11-21 Oklahoma City Thunder 117 Los Angeles Clippers 111
+  400277887 2013-11-21 Dallas Mavericks 114 New York Knicks 111
+  400277889 2013-11-21 Sacramento Kings 113 Los Angeles Lakers 97
+  400277890 2013-11-21 Golden State Warriors 102 Brooklyn Nets 93
+  400277893 2013-11-23 Boston Celtics 108 Oklahoma City Thunder 100
+  400277894 2013-11-23 Brooklyn Nets 86 Los Angeles Clippers 76
+  400277895 2013-11-23 Detroit Pistons 91 Toronto Raptors 90
+  400277897 2013-11-23 Memphis Grizzlies 106 Los Angeles Lakers 98
+  400277898 2013-11-23 Houston Rockets 131 New York Knicks 103
+  400277899 2013-11-23 Denver Nuggets 102 Golden State Warriors 91
+  400277903 2013-11-24 Philadelphia 76ers 109 Oklahoma City Thunder 116
+  400277905 2013-11-24 Atlanta Hawks 104 Los Angeles Clippers 93
+  400277907 2013-11-24 Dallas Mavericks 89 Los Angeles Lakers 115
+  400277910 2013-11-24 Golden State Warriors 96 Minnesota Timberwolves 85
+  400277911 2013-11-25 Toronto Raptors 106 San Antonio Spurs 111
+  400277912 2013-11-25 New York Knicks 121 Detroit Pistons 100
+  400277913 2013-11-25 Brooklyn Nets 98 Portland Trail Blazers 85
+  400277914 2013-11-25 Philadelphia 76ers 104 Phoenix Suns 101
+  400277915 2013-11-25 Orlando Magic 110 Boston Celtics 116
+  400277923 2013-11-26 Los Angeles Clippers 98 New Orleans Hornets 105
+  400277924 2013-11-27 Philadelphia 76ers 100 Dallas Mavericks 98
+  400277926 2013-11-27 Houston Rockets 117 Toronto Raptors 101
+  400277928 2013-11-27 Los Angeles Lakers 77 Indiana Pacers 79
+  400277931 2013-11-28 Boston Celtics 83 Brooklyn Nets 95
+  400277935 2013-11-28 Milwaukee Bucks 88 New York Knicks 102
+  400277936 2013-11-28 Memphis Grizzlies 103 Toronto Raptors 82
+  400277939 2013-11-28 Los Angeles Clippers 101 Minnesota Timberwolves 95
+  400277941 2013-11-29 Golden State Warriors 106 Denver Nuggets 105
+  400277942 2013-11-30 Toronto Raptors 101 Phoenix Suns 97
+  400277943 2013-11-30 Charlotte Bobcats 98 Philadelphia 76ers 104
+  400277944 2013-11-30 Orlando Magic 86 Brooklyn Nets 98
+  400277945 2013-11-30 Boston Celtics 96 Portland Trail Blazers 78
+  400277946 2013-11-30 New York Knicks 108 Washington Wizards 87
+  400277952 2013-11-30 Los Angeles Lakers 122 Denver Nuggets 103
+  400277953 2013-12-01 Miami Heat 102 Brooklyn Nets 89
+  400277955 2013-12-01 Chicago Bulls 93 Philadelphia 76ers 88
+  400277958 2013-12-01 Milwaukee Bucks 91 Boston Celtics 88
+  400277961 2013-12-01 Los Angeles Clippers 116 Sacramento Kings 81
+  400277962 2013-12-01 Golden State Warriors 103 Indiana Pacers 92
+  400277963 2013-12-02 New York Knicks 106 Phoenix Suns 99
+  400277964 2013-12-02 Los Angeles Lakers 103 Orlando Magic 113
+  400277968 2013-12-03 Denver Nuggets 113 Toronto Raptors 110
+  400277969 2013-12-03 Utah Jazz 104 Los Angeles Clippers 105
+  400277970 2013-12-03 Golden State Warriors 94 Orlando Magic 102
+  400277971 2013-12-04 Philadelphia 76ers 88 Minnesota Timberwolves 105
+  400277973 2013-12-04 Brooklyn Nets 111 Oklahoma City Thunder 117
+  400277976 2013-12-04 Houston Rockets 107 Los Angeles Lakers 105
+  400277977 2013-12-05 Charlotte Bobcats 98 New York Knicks 100
+  400277979 2013-12-05 Boston Celtics 104 Minnesota Timberwolves 94
+  400277981 2013-12-05 Detroit Pistons 97 Golden State Warriors 104
+  400277983 2013-12-05 New Orleans Hornets 87 Los Angeles Lakers 103
+  400277986 2013-12-05 Sacramento Kings 107 Toronto Raptors 100
+  400277987 2013-12-05 Los Angeles Clippers 112 Dallas Mavericks 90
+  400277988 2013-12-06 Miami Heat 92 New York Knicks 112
+  400277990 2013-12-07 Philadelphia 76ers 95 Boston Celtics 94
+  400277992 2013-12-07 Brooklyn Nets 102 Golden State Warriors 109
+  400277999 2013-12-07 Utah Jazz 131 Toronto Raptors 99
+  400278000 2013-12-07 Oklahoma City Thunder 114 Los Angeles Lakers 108
+  400278002 2013-12-08 Los Angeles Clippers 117 Phoenix Suns 99
+  400278003 2013-12-08 Washington Wizards 97 Golden State Warriors 101
+  400278005 2013-12-08 Boston Celtics 92 Philadelphia 76ers 79
+  400278008 2013-12-08 Chicago Bulls 93 New York Knicks 85
+  400278012 2013-12-09 Los Angeles Clippers 102 Toronto Raptors 83
+  400278013 2013-12-09 Brooklyn Nets 88 Milwaukee Bucks 97
+  400278015 2013-12-09 New York Knicks 112 Denver Nuggets 106
+  400278017 2013-12-09 Los Angeles Lakers 110 Utah Jazz 117
+  400278018 2013-12-10 Philadelphia 76ers 104 Detroit Pistons 97
+  400278019 2013-12-10 Charlotte Bobcats 96 Golden State Warriors 104
+  400278023 2013-12-10 Portland Trail Blazers 92 Toronto Raptors 74
+  400278024 2013-12-11 Brooklyn Nets 97 New York Knicks 100
+  400278025 2013-12-11 Cleveland Cavaliers 100 Los Angeles Lakers 94
+  400278028 2013-12-11 Chicago Bulls 89 Los Angeles Clippers 94
+  400278029 2013-12-12 Toronto Raptors 88 Brooklyn Nets 94
+  400278032 2013-12-12 Philadelphia 76ers 89 Chicago Bulls 96
+  400278033 2013-12-12 Charlotte Bobcats 94 Los Angeles Clippers 100
+  400278034 2013-12-12 Miami Heat 95 Golden State Warriors 97
+  400278035 2013-12-12 Boston Celtics 117 Dallas Mavericks 115
+  400278043 2013-12-13 New York Knicks 116 Los Angeles Lakers 107
+  400278045 2013-12-14 Toronto Raptors 95 Dallas Mavericks 74
+  400278046 2013-12-14 Washington Wizards 96 Los Angeles Lakers 102
+  400278047 2013-12-14 Indiana Pacers 95 Philadelphia 76ers 85
+  400278048 2013-12-14 Brooklyn Nets 107 Detroit Pistons 105
+  400278050 2013-12-14 Orlando Magic 99 Golden State Warriors 85
+  400278052 2013-12-14 Houston Rockets 101 Boston Celtics 89
+  400278057 2013-12-15 Atlanta Hawks 93 Golden State Warriors 115
+  400278058 2013-12-15 New York Knicks 103 Cleveland Cavaliers 102
+  400278061 2013-12-15 Chicago Bulls 83 Brooklyn Nets 82
+  400278063 2013-12-15 Milwaukee Bucks 85 Los Angeles Clippers 111
+  400278064 2013-12-15 San Antonio Spurs 103 Boston Celtics 88
+  400278066 2013-12-16 Toronto Raptors 103 Houston Rockets 96
+  400278067 2013-12-16 Philadelphia 76ers 98 Los Angeles Lakers 111
+  400278071 2013-12-17 New York Knicks 96 Houston Rockets 109
+  400278072 2013-12-17 Detroit Pistons 76 Los Angeles Clippers 88
+  400278077 2013-12-18 Cleveland Cavaliers 99 Toronto Raptors 113
+  400278078 2013-12-18 Brooklyn Nets 90 Utah Jazz 92
+  400278080 2013-12-18 Chicago Bulls 100 Boston Celtics 89
+  400278082 2013-12-18 Dallas Mavericks 107 Philadelphia 76ers 100
+  400278084 2013-12-18 Los Angeles Lakers 101 Charlotte Bobcats 100
+  400278085 2013-12-18 Golden State Warriors 103 New Orleans Hornets 96
+  400278086 2013-12-19 Toronto Raptors 97 Detroit Pistons 91
+  400278087 2013-12-19 New York Knicks 100 Brooklyn Nets 86
+  400278090 2013-12-19 Boston Celtics 103 Cleveland Cavaliers 91
+  400278092 2013-12-19 Houston Rockets 125 Philadelphia 76ers 103
+  400278095 2013-12-19 Sacramento Kings 131 Golden State Warriors 127
+  400278096 2013-12-19 Los Angeles Clippers 93 New Orleans Hornets 77
+  400278100 2013-12-21 Toronto Raptors 93 Orlando Magic 90
+  400278101 2013-12-21 Philadelphia 76ers 99 Atlanta Hawks 80
+  400278102 2013-12-21 Boston Celtics 94 Milwaukee Bucks 99
+  400278103 2013-12-21 New York Knicks 106 Chicago Bulls 110
+  400278108 2013-12-21 Los Angeles Clippers 97 Sacramento Kings 85
+  400278109 2013-12-21 Golden State Warriors 115 Charlotte Bobcats 100
+  400278118 2013-12-22 Golden State Warriors 115 Los Angeles Lakers 118
+  400278119 2013-12-23 Brooklyn Nets 95 Philadelphia 76ers 92
+  400278120 2013-12-23 New York Knicks 94 Minnesota Timberwolves 91
+  400278123 2013-12-23 Phoenix Suns 77 Los Angeles Clippers 103
+  400278125 2013-12-25 Brooklyn Nets 76 Boston Celtics 93
+  400278126 2013-12-25 Los Angeles Lakers 100 New York Knicks 94
+  400278129 2013-12-25 Los Angeles Clippers 112 Denver Nuggets 100
+  400278135 2013-12-26 Milwaukee Bucks 108 Brooklyn Nets 93
+  400278136 2013-12-26 Memphis Grizzlies 89 Philadelphia 76ers 99
+  400278138 2013-12-26 San Antonio Spurs 100 Toronto Raptors 80
+  400278139 2013-12-26 Denver Nuggets 126 Los Angeles Lakers 114
+  400278140 2013-12-26 Utah Jazz 83 Golden State Warriors 94
+  400278141 2013-12-26 Phoenix Suns 97 New York Knicks 99
+  400278144 2013-12-27 Los Angeles Clippers 106 Boston Celtics 77
+  400278147 2013-12-28 Brooklyn Nets 97 Charlotte Bobcats 81
+  400278150 2013-12-28 New Orleans Hornets 97 Toronto Raptors 104
+  400278153 2013-12-28 Utah Jazz 114 Los Angeles Clippers 116
+  400278154 2013-12-28 Sacramento Kings 106 New York Knicks 105
+  400278155 2013-12-28 Los Angeles Lakers 104 Portland Trail Blazers 87
+  400278156 2013-12-28 Golden State Warriors 96 Philadelphia 76ers 89
+  400278159 2013-12-29 Orlando Magic 88 Toronto Raptors 123
+  400278160 2013-12-29 Brooklyn Nets 103 Cleveland Cavaliers 100
+  400278166 2013-12-29 Portland Trail Blazers 89 Philadelphia 76ers 85
+  400278167 2013-12-29 Golden State Warriors 101 Boston Celtics 83
+  400278170 2013-12-30 Sacramento Kings 118 Boston Celtics 96
+  400278171 2013-12-30 Los Angeles Clippers 107 Utah Jazz 96
+  400278177 2013-12-31 San Antonio Spurs 104 Brooklyn Nets 73
+  400278179 2013-01-01 New York Knicks 100 Portland Trail Blazers 105
+  400278182 2013-01-01 Denver Nuggets 92 Los Angeles Clippers 78
+  400278183 2013-01-01 Los Angeles Lakers 99 Philadelphia 76ers 103
+  400278184 2013-01-02 Toronto Raptors 102 Portland Trail Blazers 79
+  400278188 2013-01-02 Boston Celtics 83 Memphis Grizzlies 93
+  400278192 2013-01-02 Oklahoma City Thunder 93 Brooklyn Nets 110
+  400278194 2013-01-02 Phoenix Suns 95 Philadelphia 76ers 89
+  400278195 2013-01-02 Golden State Warriors 115 Los Angeles Clippers 94
+  400278196 2013-01-03 New York Knicks 100 San Antonio Spurs 83
+  400278198 2013-01-04 Toronto Raptors 96 Sacramento Kings 105
+  400278199 2013-01-04 Washington Wizards 113 Brooklyn Nets 115
+  400278203 2013-01-04 Boston Celtics 94 Indiana Pacers 75
+  400278205 2013-01-04 Oklahoma City Thunder 109 Philadelphia 76ers 85
+  400278208 2013-01-04 Los Angeles Clippers 107 Los Angeles Lakers 102
+  400278209 2013-01-05 Atlanta Hawks 81 Boston Celtics 89
+  400278210 2013-01-05 Orlando Magic 106 New York Knicks 114
+  400278212 2013-01-05 Brooklyn Nets 113 Sacramento Kings 93
+  400278216 2013-01-05 San Antonio Spurs 109 Philadelphia 76ers 86
+  400278218 2013-01-05 Los Angeles Clippers 115 Golden State Warriors 89
+  400278219 2013-01-06 Toronto Raptors 92 Oklahoma City Thunder 104
+  400278223 2013-01-06 Los Angeles Lakers 105 Denver Nuggets 112
+  400278225 2013-01-07 New York Knicks 96 Boston Celtics 102
+  400278231 2013-01-08 Philadelphia 76ers 89 Brooklyn Nets 109
+  400278234 2013-01-08 Houston Rockets 125 Los Angeles Lakers 112
+  400278236 2013-01-09 Toronto Raptors 90 Philadelphia 76ers 72
+  400278239 2013-01-09 Boston Celtics 87 Phoenix Suns 79
+  400278242 2013-01-09 San Antonio Spurs 108 Los Angeles Lakers 105
+  400278245 2013-01-09 Los Angeles Clippers 99 Dallas Mavericks 93
+  400278246 2013-01-09 Golden State Warriors 87 Memphis Grizzlies 94
+  400278247 2013-01-10 Indiana Pacers 81 New York Knicks 76
+  400278250 2013-01-11 Toronto Raptors 99 Charlotte Bobcats 78
+  400278251 2013-01-11 Boston Celtics 103 Houston Rockets 91
+  400278252 2013-01-11 Brooklyn Nets 99 Phoenix Suns 79
+  400278254 2013-01-11 New York Knicks 101 Chicago Bulls 108
+  400278259 2013-01-11 Los Angeles Lakers 101 Oklahoma City Thunder 116
+  400278260 2013-01-11 Golden State Warriors 103 Portland Trail Blazers 97
+  400278261 2013-01-12 Los Angeles Clippers 101 Orlando Magic 104
+  400278264 2013-01-12 Philadelphia 76ers 107 Houston Rockets 100
+  400278269 2013-01-13 New York Knicks 100 New Orleans Hornets 87
+  400278270 2013-01-13 Toronto Raptors 96 Milwaukee Bucks 107
+  400278271 2013-01-13 Brooklyn Nets 97 Indiana Pacers 86
+  400278273 2013-01-13 Denver Nuggets 116 Golden State Warriors 105
+  400278275 2013-01-13 Los Angeles Lakers 113 Cleveland Cavaliers 93
+  400278277 2013-01-14 Boston Celtics 100 Charlotte Bobcats 89
+  400278279 2013-01-14 Memphis Grizzlies 73 Los Angeles Clippers 99
+  400278284 2013-01-15 Philadelphia 76ers 99 New Orleans Hornets 111
+  400278286 2013-01-15 Brooklyn Nets 113 Toronto Raptors 106
+  400278287 2013-01-15 Houston Rockets 109 Los Angeles Clippers 117
+  400278289 2013-01-15 Los Angeles Lakers 104 Milwaukee Bucks 88
+  400278290 2013-01-16 Toronto Raptors 105 Chicago Bulls 107
+  400278292 2013-01-16 Atlanta Hawks 109 Brooklyn Nets 95
+  400278293 2013-01-16 Boston Celtics 78 New Orleans Hornets 90
+  400278299 2013-01-16 Golden State Warriors 75 Miami Heat 92
+  400278300 2013-01-17 Detroit Pistons 87 New York Knicks 102
+  400278301 2013-01-17 Minnesota Timberwolves 77 Los Angeles Clippers 90
+  400278303 2013-01-17 Los Angeles Lakers 90 Miami Heat 99
+  400278304 2013-01-18 Boston Celtics 99 Chicago Bulls 100
+  400278305 2013-01-18 Philadelphia 76ers 108 Toronto Raptors 101
+  400278308 2013-01-18 Brooklyn Nets 94 Atlanta Hawks 89
+  400278310 2013-01-18 San Antonio Spurs 95 Golden State Warriors 88
+  400278316 2013-01-19 New Orleans Hornets 112 Golden State Warriors 116
+  400278320 2013-01-19 Los Angeles Clippers 94 Washington Wizards 87
+  400278321 2013-01-20 Toronto Raptors 108 Los Angeles Lakers 103
+  400278323 2013-01-20 Detroit Pistons 103 Boston Celtics 88
+  400278329 2013-01-21 New York Knicks 85 Brooklyn Nets 88
+  400278330 2013-01-21 Golden State Warriors 106 Los Angeles Clippers 99
+  400278331 2013-01-21 Philadelphia 76ers 85 San Antonio Spurs 90
+  400278334 2013-01-22 Cleveland Cavaliers 95 Boston Celtics 90
+  400278336 2013-01-22 Milwaukee Bucks 110 Philadelphia 76ers 102
+  400278337 2013-01-22 Los Angeles Clippers 97 Oklahoma City Thunder 109
+  400278339 2013-01-23 Miami Heat 123 Toronto Raptors 116
+  400278343 2013-01-23 Minnesota Timberwolves 83 Brooklyn Nets 91
+  400278348 2013-01-23 Golden State Warriors 104 Oklahoma City Thunder 99
+  400278349 2013-01-24 Orlando Magic 95 Toronto Raptors 97
+  400278350 2013-01-24 Boston Celtics 86 New York Knicks 89
+  400278351 2013-01-24 Phoenix Suns 93 Los Angeles Clippers 88
+  400278353 2013-01-25 Atlanta Hawks 123 Boston Celtics 111
+  400278356 2013-01-25 Chicago Bulls 103 Golden State Warriors 87
+  400278357 2013-01-25 Memphis Grizzlies 101 Brooklyn Nets 77
+  400278362 2013-01-26 Toronto Raptors 98 Cleveland Cavaliers 99
+  400278363 2013-01-26 Philadelphia 76ers 97 New York Knicks 80
+  400278366 2013-01-26 Houston Rockets 119 Brooklyn Nets 106
+  400278367 2013-01-26 Milwaukee Bucks 109 Golden State Warriors 102
+  400278371 2013-01-26 Portland Trail Blazers 101 Los Angeles Clippers 100
+  400278372 2013-01-27 Boston Celtics 100 Miami Heat 98
+  400278376 2013-01-27 New York Knicks 106 Atlanta Hawks 104
+  400278378 2013-01-27 Los Angeles Clippers 96 Portland Trail Blazers 83
+  400278379 2013-01-28 Toronto Raptors 102 Golden State Warriors 114
+  400278380 2013-01-28 Philadelphia 76ers 100 Memphis Grizzlies 103
+  400278382 2013-01-28 Brooklyn Nets 97 Orlando Magic 77
+  400278386 2013-01-29 Cleveland Cavaliers 95 Golden State Warriors 108
+  400278390 2013-01-30 Philadelphia 76ers 92 Washington Wizards 84
+  400278392 2013-01-30 Boston Celtics 99 Sacramento Kings 81
+  400278393 2013-01-30 New York Knicks 113 Orlando Magic 97
+  400278394 2013-01-30 Atlanta Hawks 93 Toronto Raptors 92
+  400278395 2013-01-30 Brooklyn Nets 85 Miami Heat 105
+  400278397 2013-01-30 Minnesota Timberwolves 90 Los Angeles Clippers 96
+  400278403 2013-01-31 Golden State Warriors 100 Dallas Mavericks 97
+  400278404 2013-02-01 Toronto Raptors 98 Los Angeles Clippers 73
+  400278406 2013-02-01 Boston Celtics 97 Orlando Magic 84
+  400278407 2013-02-01 Brooklyn Nets 93 Chicago Bulls 89
+  400278408 2013-02-01 New York Knicks 96 Milwaukee Bucks 86
+  400278409 2013-02-01 Philadelphia 76ers 89 Sacramento Kings 80
+  400278417 2013-02-02 New York Knicks 120 Sacramento Kings 81
+  400278424 2013-02-02 Golden State Warriors 113 Phoenix Suns 93
+  400278425 2013-02-03 Boston Celtics 106 Los Angeles Clippers 104
+  400278427 2013-02-03 Toronto Raptors 85 Miami Heat 100
+  400278428 2013-02-04 Philadelphia 76ers 78 Orlando Magic 61
+  400278429 2013-02-04 Washington Wizards 98 Los Angeles Clippers 90
+  400278430 2013-02-04 New York Knicks 99 Detroit Pistons 85
+  400278436 2013-02-05 Brooklyn Nets 83 Los Angeles Lakers 92
+  400278438 2013-02-05 Houston Rockets 140 Golden State Warriors 109
+  400278440 2013-02-06 Toronto Raptors 95 Boston Celtics 99
+  400278441 2013-02-06 Philadelphia 76ers 69 Indiana Pacers 88
+  400278442 2013-02-06 Washington Wizards 106 New York Knicks 96
+  400278443 2013-02-06 Orlando Magic 76 Los Angeles Clippers 86
+  400278447 2013-02-06 Detroit Pistons 90 Brooklyn Nets 93
+  400278449 2013-02-06 Oklahoma City Thunder 119 Golden State Warriors 98
+  400278453 2013-02-07 Boston Celtics 116 Los Angeles Lakers 95
+  400278455 2013-02-08 Washington Wizards 89 Brooklyn Nets 74
+  400278457 2013-02-08 Indiana Pacers 98 Toronto Raptors 100
+  400278461 2013-02-08 Miami Heat 111 Los Angeles Clippers 89
+  400278462 2013-02-08 Memphis Grizzlies 99 Golden State Warriors 93
+  400278465 2013-02-08 Minnesota Timberwolves 94 New York Knicks 100
+  400278468 2013-02-09 Philadelphia 76ers 87 Charlotte Bobcats 76
+  400278470 2013-02-09 Dallas Mavericks 116 Golden State Warriors 91
+  400278472 2013-02-10 New York Knicks 88 Los Angeles Clippers 102
+  400278474 2013-02-10 Boston Celtics 118 Denver Nuggets 114
+  400278475 2013-02-10 Toronto Raptors 102 New Orleans Hornets 89
+  400278478 2013-02-10 Brooklyn Nets 86 San Antonio Spurs 111
+  400278481 2013-02-11 Philadelphia 76ers 90 Los Angeles Clippers 107
+  400278482 2013-02-11 Charlotte Bobcats 94 Boston Celtics 91
+  400278484 2013-02-11 Indiana Pacers 84 Brooklyn Nets 89
+  400278489 2013-02-12 Toronto Raptors 109 Denver Nuggets 108
+  400278494 2013-02-12 Golden State Warriors 107 Houston Rockets 116
+  400278498 2013-02-13 Boston Celtics 71 Chicago Bulls 69
+  400278499 2013-02-13 Brooklyn Nets 119 Denver Nuggets 108
+  400278500 2013-02-13 New York Knicks 88 Toronto Raptors 92
+  400278502 2013-02-13 Milwaukee Bucks 94 Philadelphia 76ers 92
+  400278506 2013-02-13 Los Angeles Clippers 106 Houston Rockets 96
+  400278508 2013-02-14 Los Angeles Lakers 101 Los Angeles Clippers 125
+  400278509 2013-02-19 Washington Wizards 88 Toronto Raptors 96
+  400278511 2013-02-19 Brooklyn Nets 113 Milwaukee Bucks 111
+  400278514 2013-02-19 Denver Nuggets 97 Boston Celtics 90
+  400278515 2013-02-19 Utah Jazz 115 Golden State Warriors 101
+  400278518 2013-02-20 Toronto Raptors 82 Memphis Grizzlies 88
+  400278521 2013-02-20 Indiana Pacers 125 New York Knicks 91
+  400278523 2013-02-20 Milwaukee Bucks 94 Brooklyn Nets 97
+  400278525 2013-02-20 Minnesota Timberwolves 94 Philadelphia 76ers 87
+  400278527 2013-02-20 Los Angeles Lakers 113 Boston Celtics 99
+  400278528 2013-02-20 Golden State Warriors 108 Phoenix Suns 98
+  400278530 2013-02-21 Los Angeles Clippers 90 San Antonio Spurs 116
+  400278531 2013-02-22 Toronto Raptors 100 New York Knicks 98
+  400278535 2013-02-22 Brooklyn Nets 96 Houston Rockets 106
+  400278540 2013-02-22 Phoenix Suns 88 Boston Celtics 113
+  400278542 2013-02-22 Golden State Warriors 107 San Antonio Spurs 101
+  400278546 2013-02-23 Philadelphia 76ers 90 Miami Heat 114
+  400278549 2013-02-23 Los Angeles Clippers 107 Utah Jazz 94
+  400278551 2013-02-24 Brooklyn Nets 72 Memphis Grizzlies 76
+  400278552 2013-02-24 Minnesota Timberwolves 99 Golden State Warriors 100
+  400278555 2013-02-24 New York Knicks 99 Philadelphia 76ers 93
+  400278557 2013-02-24 Portland Trail Blazers 92 Boston Celtics 86
+  400278559 2013-02-25 Toronto Raptors 84 Washington Wizards 90
+  400278562 2013-02-25 Utah Jazz 107 Boston Celtics 110
+  400278563 2013-02-26 Philadelphia 76ers 84 Orlando Magic 98
+  400278564 2013-02-26 Indiana Pacers 108 Golden State Warriors 97
+  400278567 2013-02-26 New Orleans Hornets 97 Brooklyn Nets 101
+  400278570 2013-02-26 Los Angeles Clippers 106 Charlotte Bobcats 84
+  400278572 2013-02-27 Cleveland Cavaliers 103 Toronto Raptors 92
+  400278573 2013-02-27 New York Knicks 109 Golden State Warriors 105
+  400278581 2013-02-28 Indiana Pacers 91 Los Angeles Clippers 99
+  400278582 2013-02-28 Chicago Bulls 93 Philadelphia 76ers 82
+  400278584 2013-03-01 Toronto Raptors 81 Indiana Pacers 93
+  400278585 2013-03-01 Washington Wizards 88 New York Knicks 96
+  400278587 2013-03-01 Boston Celtics 94 Golden State Warriors 86
+  400278589 2013-03-01 Cleveland Cavaliers 89 Los Angeles Clippers 105
+  400278590 2013-03-01 Brooklyn Nets 90 Dallas Mavericks 98
+  400278596 2013-03-02 Philadelphia 76ers 104 Golden State Warriors 97
+  400278597 2013-03-02 Chicago Bulls 96 Brooklyn Nets 85
+  400278598 2013-03-02 Milwaukee Bucks 122 Toronto Raptors 114
+  400278600 2013-03-03 New York Knicks 93 Miami Heat 99
+  400278601 2013-03-03 Los Angeles Clippers 104 Oklahoma City Thunder 108
+  400278602 2013-03-03 Washington Wizards 90 Philadelphia 76ers 87
+  400278609 2013-03-04 Cleveland Cavaliers 97 New York Knicks 102
+  400278615 2013-03-04 Golden State Warriors 125 Toronto Raptors 118
+  400278616 2013-03-05 Philadelphia 76ers 101 Boston Celtics 109
+  400278619 2013-03-06 Charlotte Bobcats 78 Brooklyn Nets 99
+  400278621 2013-03-06 Indiana Pacers 81 Boston Celtics 83
+  400278622 2013-03-06 Atlanta Hawks 107 Philadelphia 76ers 96
+  400278624 2013-03-06 Detroit Pistons 77 New York Knicks 87
+  400278630 2013-03-06 Phoenix Suns 71 Toronto Raptors 98
+  400278631 2013-03-06 Los Angeles Clippers 117 Milwaukee Bucks 101
+  400278632 2013-03-06 Golden State Warriors 87 Sacramento Kings 83
+  400278633 2013-03-07 New York Knicks 94 Oklahoma City Thunder 95
+  400278634 2013-03-07 Denver Nuggets 107 Los Angeles Clippers 92
+  400278637 2013-03-08 Boston Celtics 107 Atlanta Hawks 102
+  400278638 2013-03-08 Brooklyn Nets 95 Washington Wizards 78
+  400278641 2013-03-08 Miami Heat 102 Philadelphia 76ers 93
+  400278645 2013-03-08 Los Angeles Lakers 118 Toronto Raptors 116
+  400278646 2013-03-08 Golden State Warriors 88 Houston Rockets 94
+  400278647 2013-03-09 Atlanta Hawks 80 Brooklyn Nets 93
+  400278648 2013-03-09 New York Knicks 113 Utah Jazz 84
+  400278653 2013-03-09 Golden State Warriors 93 Milwaukee Bucks 103
+  400278654 2013-03-10 Oklahoma City Thunder 91 Boston Celtics 79
+  400278656 2013-03-10 Toronto Raptors 100 Cleveland Cavaliers 96
+  400278657 2013-03-10 Orlando Magic 99 Philadelphia 76ers 91
+  400278662 2013-03-10 Los Angeles Clippers 129 Detroit Pistons 97
+  400278663 2013-03-11 Philadelphia 76ers 106 Brooklyn Nets 97
+  400278667 2013-03-11 Golden State Warriors 92 New York Knicks 63
+  400278668 2013-03-12 Charlotte Bobcats 100 Boston Celtics 74
+  400278671 2013-03-12 Brooklyn Nets 108 New Orleans Hornets 98
+  400278676 2013-03-13 Philadelphia 76ers 94 Miami Heat 98
+  400278679 2013-03-13 Boston Celtics 112 Toronto Raptors 88
+  400278684 2013-03-13 Denver Nuggets 117 New York Knicks 94
+  400278685 2013-03-13 Los Angeles Clippers 85 Memphis Grizzlies 96
+  400278686 2013-03-13 Golden State Warriors 105 Detroit Pistons 97
+  400278688 2013-03-14 Portland Trail Blazers 105 New York Knicks 90
+  400278689 2013-03-15 Toronto Raptors 92 Charlotte Bobcats 78
+  400278698 2013-03-15 Golden State Warriors 95 Chicago Bulls 113
+  400278700 2013-03-16 Boston Celtics 105 Charlotte Bobcats 88
+  400278701 2013-03-16 Philadelphia 76ers 98 Indiana Pacers 91
+  400278705 2013-03-17 Toronto Raptors 91 Miami Heat 108
+  400278707 2013-03-17 Los Angeles Clippers 93 New York Knicks 80
+  400278708 2013-03-17 Houston Rockets 78 Golden State Warriors 108
+  400278711 2013-03-17 Brooklyn Nets 93 Atlanta Hawks 105
+  400278713 2013-03-18 Philadelphia 76ers 101 Portland Trail Blazers 100
+  400278717 2013-03-18 Detroit Pistons 82 Brooklyn Nets 119
+  400278718 2013-03-18 Boston Celtics 103 Miami Heat 105
+  400278721 2013-03-18 New Orleans Hornets 72 Golden State Warriors 93
+  400278723 2013-03-18 Utah Jazz 83 New York Knicks 90
+  400278727 2013-03-19 Sacramento Kings 116 Los Angeles Clippers 101
+  400278728 2013-03-20 Charlotte Bobcats 107 Toronto Raptors 101
+  400278730 2013-03-20 New York Knicks 106 Orlando Magic 94
+  400278733 2013-03-20 New Orleans Hornets 87 Boston Celtics 86
+  400278735 2013-03-20 Dallas Mavericks 96 Brooklyn Nets 113
+  400278736 2013-03-20 San Antonio Spurs 104 Golden State Warriors 93
+  400278738 2013-03-20 Los Angeles Clippers 101 Philadelphia 76ers 72
+  400278740 2013-03-21 Denver Nuggets 101 Philadelphia 76ers 100
+  400278742 2013-03-22 Toronto Raptors 94 New York Knicks 99
+  400278749 2013-03-22 Dallas Mavericks 104 Boston Celtics 94
+  400278754 2013-03-23 New York Knicks 110 Toronto Raptors 84
+  400278756 2013-03-23 Memphis Grizzlies 110 Boston Celtics 106
+  400278758 2013-03-23 Los Angeles Clippers 101 Brooklyn Nets 95
+  400278759 2013-03-23 Golden State Warriors 101 Washington Wizards 92
+  400278766 2013-03-24 Phoenix Suns 100 Brooklyn Nets 102
+  400278767 2013-03-24 Sacramento Kings 103 Philadelphia 76ers 117
+  400278772 2013-03-25 Utah Jazz 107 Philadelphia 76ers 91
+  400278773 2013-03-25 Golden State Warriors 109 Los Angeles Lakers 103
+  400278774 2013-03-26 Boston Celtics 85 New York Knicks 100
+  400278776 2013-03-26 Dallas Mavericks 109 Los Angeles Clippers 102
+  400278777 2013-03-27 Toronto Raptors 88 Atlanta Hawks 107
+  400278778 2013-03-27 Philadelphia 76ers 100 Milwaukee Bucks 92
+  400278780 2013-03-27 Cleveland Cavaliers 92 Boston Celtics 93
+  400278781 2013-03-27 New York Knicks 108 Memphis Grizzlies 101
+  400278783 2013-03-27 New Orleans Hornets 91 Los Angeles Clippers 105
+  400278789 2013-03-27 Golden State Warriors 98 Sacramento Kings 105
+  400278790 2013-03-27 Portland Trail Blazers 93 Brooklyn Nets 111
+  400278795 2013-03-29 Boston Celtics 118 Atlanta Hawks 107
+  400278796 2013-03-29 New York Knicks 111 Charlotte Bobcats 102
+  400278797 2013-03-29 Detroit Pistons 82 Toronto Raptors 99
+  400278798 2013-03-29 Cleveland Cavaliers 87 Philadelphia 76ers 97
+  400278802 2013-03-29 San Antonio Spurs 104 Los Angeles Clippers 102
+  400278803 2013-03-29 Denver Nuggets 109 Brooklyn Nets 87
+  400278807 2013-03-30 Philadelphia 76ers 100 Charlotte Bobcats 92
+  400278808 2013-03-30 Houston Rockets 98 Los Angeles Clippers 81
+  400278811 2013-03-30 Utah Jazz 116 Brooklyn Nets 107
+  400278814 2013-03-30 Golden State Warriors 125 Portland Trail Blazers 98
+  400278815 2013-03-31 Washington Wizards 109 Toronto Raptors 92
+  400278819 2013-03-31 New York Knicks 108 Boston Celtics 89
+  400278820 2013-04-01 Toronto Raptors 98 Detroit Pistons 108
+  400278825 2013-04-01 Minnesota Timberwolves 110 Boston Celtics 100
+  400278827 2013-04-01 Los Angeles Clippers 106 Indiana Pacers 109
+  400278829 2013-04-02 Miami Heat 90 New York Knicks 102
+  400278831 2013-04-03 Toronto Raptors 88 Washington Wizards 78
+  400278832 2013-04-03 Charlotte Bobcats 88 Philadelphia 76ers 83
+  400278833 2013-04-03 Atlanta Hawks 82 New York Knicks 95
+  400278834 2013-04-03 Cleveland Cavaliers 95 Brooklyn Nets 113
+  400278835 2013-04-03 Boston Celtics 98 Detroit Pistons 93
+  400278841 2013-04-03 Los Angeles Clippers 126 Phoenix Suns 101
+  400278842 2013-04-03 Golden State Warriors 98 New Orleans Hornets 88
+  400278843 2013-04-04 Brooklyn Nets 90 Chicago Bulls 92
+  400278847 2013-04-05 Boston Celtics 91 Cleveland Cavaliers 97
+  400278848 2013-04-05 New York Knicks 101 Milwaukee Bucks 83
+  400278849 2013-04-05 Atlanta Hawks 90 Philadelphia 76ers 101
+  400278852 2013-04-05 Minnesota Timberwolves 93 Toronto Raptors 95
+  400278854 2013-04-05 Phoenix Suns 107 Golden State Warriors 111
+  400278859 2013-04-06 Brooklyn Nets 105 Charlotte Bobcats 96
+  400278860 2013-04-06 Miami Heat 106 Philadelphia 76ers 87
+  400278862 2013-04-06 Milwaukee Bucks 100 Toronto Raptors 83
+  400278865 2013-04-07 Oklahoma City Thunder 120 New York Knicks 125
+  400278866 2013-04-07 Los Angeles Clippers 109 Los Angeles Lakers 95
+  400278867 2013-04-07 Boston Celtics 107 Washington Wizards 96
+  400278871 2013-04-07 Golden State Warriors 90 Utah Jazz 97
+  400431053 2013-11-26 Brooklyn Nets 96 New York Knicks 89
+> > Contents of cavs:
+  Cleveland Cavaliers 100 Los Angeles Lakers 94
+  Cleveland Cavaliers 103 Toronto Raptors 92
+  Cleveland Cavaliers 87 Philadelphia 76ers 97
+  Cleveland Cavaliers 89 Los Angeles Clippers 105
+  Cleveland Cavaliers 92 Philadelphia 76ers 83
+  Cleveland Cavaliers 92 Boston Celtics 93
+  Cleveland Cavaliers 95 Boston Celtics 90
+  Cleveland Cavaliers 95 Golden State Warriors 108
+  Cleveland Cavaliers 95 Brooklyn Nets 113
+  Cleveland Cavaliers 97 New York Knicks 102
+  Cleveland Cavaliers 99 Toronto Raptors 113
+> > Contents of cavsandceltics:
+  Cleveland Cavaliers 92 Boston Celtics 93
+  Cleveland Cavaliers 95 Boston Celtics 90
+> Stored cavs.db
+> Stored cavsandceltics.db
+> Loaded cavs.db
+> Loaded cavsandceltics.db
+> 
